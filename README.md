@@ -2,9 +2,9 @@
 
 A modern GUI implementation of the classic game with sound effects and multiple game modes.
 
-![Game Screenshot](screenshots\screenshot_1.png) 
+![Game Screenshot](https://github.com/TeddJuma/Rock-Paper-Scissors-Game/blob/main/screenshots/screenshot_1.png) 
 
-![Game Screenshot](screenshots\screenshot_2.png)
+![Game Screenshot](https://github.com/TeddJuma/Rock-Paper-Scissors-Game/blob/main/screenshots/screenshot_2.png)
 
 
 ## Features
